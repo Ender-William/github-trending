@@ -1,0 +1,19 @@
+{
+  "server": {
+    "port": 3000,
+    "host": "0.0.0.0"
+  },
+  "database": {
+    "path": "./data/projects.db"
+  },
+  "github": {
+    "trendingUrl": "https://github.com/trending"
+  },
+  "cron": {
+    "schedule": "0 8 * * *",
+    "enabled": true
+  },
+  "output": {
+    "markdownFile": "../GitHub-热门项目.md"
+  }
+}

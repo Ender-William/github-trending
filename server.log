@@ -1,0 +1,6 @@
+✅ Database initialized
+Fetching GitHub trending projects...
+Markdown file updated: /home/mi-2019/.openclaw/workspace/github-trending/GitHub-热门项目.md
+Successfully fetched 9 projects
+✅ Initial data fetch complete
+🚀 GitHub Trending Web 已启动: http://0.0.0.0:3000
